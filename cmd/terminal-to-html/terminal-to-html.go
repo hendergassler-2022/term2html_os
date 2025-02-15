@@ -244,7 +244,7 @@ func main() {
 		},
 		&cli.IntFlag{
 			Name:  "window-cols",
-			Value: 160,
+			Value: 260,
 			Usage: "Sets the initial window width. Window size mainly affects cursor movement sequences",
 		},
 		&cli.IntFlag{
